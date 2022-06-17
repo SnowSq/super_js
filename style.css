@@ -1,8 +1,16 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
 .goods-list {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     padding-top: 64px;
     padding-bottom: 64px;
+    
 }
 
 .goods-item {
