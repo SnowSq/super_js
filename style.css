@@ -1,0 +1,25 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.goods-list {
+    display: flex;
+    justify-content: center;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    
+}
+
+.goods-item {
+    box-sizing: border-box;
+    width: 359px;
+    padding: 44px 32px;
+    background: #FFFFFF;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
